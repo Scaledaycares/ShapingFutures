@@ -207,7 +207,7 @@ background-color: #bada55 !important;
 border-radius: 50% !important;
 background-image: url('https://scaledaycares.github.io/messagebtn/messagebtn.png') !important;
 background-repeat: no-repeat !important;
-background-position: center !important;
+background-position: 48% 50% !important;
 background-size: 50px 45px !important; /* Adjust size to fit the button */
 border: none !important;
 cursor: pointer !important;
